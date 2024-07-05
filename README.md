@@ -11,7 +11,7 @@ first, install [fastfetch](https://github.com/fastfetch-cli/fastfetch)!
 then, clone the repo:
 
 ```
-cd ~./config
+cd ~/.config
 git clone https://github.com/johncmanuel/fastfetch.git
 ```
 
