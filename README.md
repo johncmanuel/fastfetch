@@ -2,6 +2,8 @@
 
 John's fastfetch configs!
 
+UPDATE! Updated files are moved to [my dotfiles repo](https://github.com/johncmanuel/.dotfiles) 
+
 ![fastfetch minimal config screenshot](/screenshots/Screenshot_20240622_132617.png)
 
 ## Usage
